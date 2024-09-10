@@ -23,7 +23,7 @@ public class Principal {
         btnAceptar.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-
+//j
             }
         });
         btnCancelar.addActionListener(new ActionListener() {
