@@ -43,5 +43,5 @@ public class Principal {
         txtTelefono.setText("");
         chkdiscapacidad.setSelected(false);
     }
-
+    //Yocelin
 }
